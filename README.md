@@ -1,5 +1,5 @@
 # Alicia Bayon - Research Vision
-Research Vision
+
 🔬 Research Vision — Alicia Bayón
 
 🌍 The Energy Challenge
