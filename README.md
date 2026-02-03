@@ -1,6 +1,6 @@
 # Alicia Bayon - Research Vision
 
-└── figures/<img width="731" height="843" alt="imagen" src="https://github.com/user-attachments/assets/e7478762-83e5-4fae-93fb-63fec798e6ea" />
+└── figures/<img width="601" height="546" alt="imagen" src="https://github.com/user-attachments/assets/dfed7ab6-7306-4288-9845-5b3a8aa20c94" />
 
 
 🔬 Research Vision — Alicia Bayon
