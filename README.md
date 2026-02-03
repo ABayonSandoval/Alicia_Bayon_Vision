@@ -2,7 +2,7 @@
 Research Vision
 # Research Vision — Alicia Bayón
 
-## Towards Next-Generation Solar-to-Hydrogen Platforms
+## Towards Next-Generation Solar-to-Hydrogen Production
 
 ---
 
