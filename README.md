@@ -1,5 +1,8 @@
 # Alicia Bayon - Research Vision
 
+└── figures/<img width="731" height="843" alt="imagen" src="https://github.com/user-attachments/assets/e7478762-83e5-4fae-93fb-63fec798e6ea" />
+
+
 🔬 Research Vision — Alicia Bayon
 
 🌍 The Energy Challenge
