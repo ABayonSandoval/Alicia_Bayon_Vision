@@ -8,17 +8,13 @@ Renewable hydrogen at scale is limited not by materials alone,
 but by the lack of integrated, high-efficiency systems operating
 under realistic conditions.
 
-**High-temperature solar routes** offer a unique opportunity to overcome
-thermodynamic and kinetic barriers — if materials, devices and systems
-are co-designed.
-
 ---
 
 🧭 Core Vision 
 
 My vision is to enable **high-efficiency solar-to-hydrogen energy
 conversion** through the development of **integrated high-temperature
-platforms**, where materials, electrochemical devices, and system
+platforms**, where materials, devices, and system
 operation are co-designed.
 
 Rather than optimising isolated components, my research targets
