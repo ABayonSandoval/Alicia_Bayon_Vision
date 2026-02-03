@@ -72,10 +72,6 @@ relevance.
 - New paradigms for solar-driven hydrogen production
 - Transferable methodologies for high-temperature energy materials
 
-### Technological Impact
-- Acceleration from **TRL 2–3 to TRL 5–6**
-- Foundations for industrially relevant solar fuel systems
-
 ### Societal Impact
 - Contribution to sustainable hydrogen economies
 - Reduction of fossil-derived hydrogen dependence
