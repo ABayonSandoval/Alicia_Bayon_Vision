@@ -1,27 +1,35 @@
 # Alicia Bayon - Research Vision
 Research Vision
-# Research Vision — Alicia Bayón
+🔬 Research Vision — Alicia Bayón
 
-## Towards Next-Generation Solar-to-Hydrogen Production
+🌍 The Energy Challenge
 
----
+Renewable hydrogen at scale is limited not by materials alone,
+but by the lack of integrated, high-efficiency systems operating
+under realistic conditions.
 
-## Scientific Motivation
-The large-scale deployment of renewable hydrogen is currently limited by
-the efficiency, stability, and scalability of existing production
-technologies. In particular, **high-temperature solar-driven routes**
-offer a unique opportunity to overcome thermodynamic and kinetic
-limitations, yet remain far from technological maturity.
-
-My research vision is to establish **a new class of integrated
-solar-to-hydrogen platforms**, combining thermochemical and
-electrochemical approaches under extreme operating conditions.
+**High-temperature solar routes** offer a unique opportunity to overcome
+thermodynamic and kinetic barriers — if materials, devices and systems
+are co-designed.
 
 ---
 
-## Core Vision
+🧭 Core Vision 
+
+My vision is to enable **high-efficiency solar-to-hydrogen energy
+conversion** through the development of **integrated high-temperature
+platforms**, where materials, electrochemical devices, and system
+operation are co-designed.
+
+Rather than optimising isolated components, my research targets
+**system-level performance**, explicitly addressing efficiency,
+stability, dynamic operation, and scalability under realistic
+conditions.
+---
+
+🎯 From materials → to devices → to energy systems
 I aim to develop **efficient, stable, and scalable hydrogen production
-technologies** based on **ceria-driven redox cycles** and
+technologies** based on **metal-oxide redox cycles** and
 **high-temperature electrochemical systems**, moving beyond incremental
 materials optimisation towards **system-level breakthroughs**.
 
@@ -31,42 +39,50 @@ previously inaccessible efficiency regimes in solar fuel production.
 
 ---
 
-## Strategic Research Pillars
+🏗️ Strategic Research Pillars 
 
-### 1. Advanced Redox Materials Beyond Incremental Design
-- Design of ceria-based and non-stoichiometric oxides with enhanced
-  redox capacity and long-term stability
-- Integration of defect chemistry, microstructure control, and
-  operando characterisation
+🧱 PILLAR I — Redox Materials for High-Temperature Energy Conversion
+- Ceria-based and non-stoichiometric oxides designed for **high redox
+  capacity, fast kinetics, and long-term cyclability**
+- Explicit coupling of defect chemistry with **reactor-relevant
+  operating conditions**
 
-### 2. Electrically Assisted Thermochemical Cycles
-- Hybridisation of thermochemical cycles with controlled electrical
-  input to overcome kinetic and thermodynamic bottlenecks
-- Development of reactor concepts enabling dynamic operation
+⚡ PILLAR II — Electrically Assisted Thermochemical Cycles
+- Introduction of controlled electrical input to enhance **energy
+  efficiency and operational flexibility**
+- Development of hybrid thermochemical–electrochemical concepts
+  compatible with intermittent solar input
 
-### 3. High-Temperature Electrochemical Systems (HT-SOEC)
-- Fundamental understanding of degradation mechanisms
-- Coupling materials discovery with realistic operating conditions
+🔋 PILLAR III — High-Temperature Electrochemical Devices (HT-SOEC)
+- Materials and electrode architectures optimised for **device-level
+  performance and durability**
+- Mechanistic understanding of degradation under realistic current
+  densities and temperatures
 
-### 4. AI-Guided Discovery and Accelerated Validation
-- Integration of modelling, machine learning, and experimental feedback
-- Transition from intuition-driven to data-driven research loops
+📐 PILLAR IV — System Integration and Efficiency Metrics
+- Quantification of solar-to-hydrogen efficiency beyond material-level
+  metrics
+- Coupling experimental results with system-level modelling to identify
+  performance bottlenecks
 
+🤖 PILLAR V — Data-Driven Design and Accelerated Optimisation
+- AI-assisted exploration of materials and operating spaces
+- Closed-loop optimisation linking modelling, experiments, and device
+  performance
 ---
 
-## Methodological Approach
+🛠️ Methodological Approach
 My research strategy explicitly combines:
 - **Fundamental understanding** (materials chemistry and thermodynamics)
-- **Multiscale modelling**
-- **Experimental validation under relevant conditions**
-- **System integration and scalability assessment**
+- **Multiscale modelling** (integrating atomic modelling, thermodynamics and kinetics)
+- **Experimental validation under relevant conditions** (using unique laboratory installations)
+- **System integration and scalability assessment** (assess principal system level targets)
 
-This approach ensures scientific depth while maintaining technological
-relevance.
+This approach ensures scientific depth while maintaining technological relevance.
 
 ---
 
-## Expected Impact
+🚀 Expected Impact
 
 ### Scientific Impact
 - New paradigms for solar-driven hydrogen production
@@ -78,9 +94,9 @@ relevance.
 
 ---
 
-## Long-Term Objective
+🎯 Long-Term Objective
 My long-term objective is to consolidate an **internationally competitive
-research group** at the intersection of **solar energy, electrochemistry,
+research group** at the intersection of **solar energy, thermo-electrochemistry,
 and materials science**, capable of leading large-scale European
 projects and translating fundamental advances into deployable
 technologies.
