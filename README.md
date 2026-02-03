@@ -1,6 +1,6 @@
 # Alicia Bayon - Research Vision
 
-🔬 Research Vision — Alicia Bayón
+🔬 Research Vision — Alicia Bayon
 
 🌍 The Energy Challenge
 
